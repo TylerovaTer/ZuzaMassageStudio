@@ -35,7 +35,7 @@ nav {
     height: 50px;
     padding: 0 35px 0 25px;
     position: fixed;
-    width: 100vw;
+    width: 100%;
     z-index: 1;
 }
 
